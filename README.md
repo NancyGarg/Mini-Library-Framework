@@ -1,6 +1,6 @@
 # Mini-Library-Framework
 
-A library for personlised greetings based on your mood.
+A library for personlised greetings based on the time.
 
 ## Features 
 
@@ -10,4 +10,4 @@ A library for personlised greetings based on your mood.
   
   3. Supports JQuery
   
-  4. Supports different languages
+ 
