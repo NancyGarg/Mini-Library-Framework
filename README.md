@@ -1,6 +1,6 @@
 # Mini-Library-Framework
 
-A library for personlised greetings based on the time.
+A small library for personalised greetings based on the time.
 
 ## Features 
 
